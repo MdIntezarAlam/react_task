@@ -1,0 +1,23 @@
+.header__appbar {
+    z-index:001 !important;
+    padding: 6px;
+    background-color: white !important;
+}
+
+.header_appbar_heading{
+margin-left: 15px;
+color: #85cba8;
+}
+
+.create_acc{
+    color: black;
+    cursor: pointer;
+    margin-right: 5px;
+}
+.its_free{
+    color: blue;
+    cursor: pointer;
+}
+.free_icon{
+    color: black;
+}
